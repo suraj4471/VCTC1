@@ -16,7 +16,7 @@ public class LooginSteps {
 	public void EnterUsername()
 	{
 		System.out.println("enter the valid user name");
-		syso
+		
 	}
 	
 	@When(" user enter Password")
